@@ -1,0 +1,48 @@
+13-06-2014 16:26:10 [Logger][START][App\App::doSomething]  
+13-06-2014 16:26:10 [Logger][END][App\App::doSomething]  ::: 1Ok fatto!! 
+13-06-2014 16:26:10 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:26:10 [Logger][END][App\App::doSomethingElseWithArgs]  ::: 1Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:26:46 [Logger][START][App\App::doSomething]  
+13-06-2014 16:26:46 [Logger][END][App\App::doSomething]  ::: eccezzione lanciata da doDomething <br> 
+13-06-2014 16:26:46 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:26:46 [Logger][END][App\App::doSomethingElseWithArgs]  ::: 1Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:27:25 [Logger][START][App\App::doSomething]  
+13-06-2014 16:27:25 [Logger][END][App\App::doSomething]  ::: eccezzione lanciata da doDomething <br> 
+13-06-2014 16:27:25 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:27:25 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:27:47 [Logger][START][App\App::doSomething]  
+13-06-2014 16:27:47 [Logger][END][App\App::doSomething]  ::: eccezzione lanciata da doDomething <br> 
+13-06-2014 16:27:47 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:27:47 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:28:09 [Logger][START][App\App::doSomething]  
+13-06-2014 16:28:09 [Logger][END][App\App::doSomething]  ::: Doing something from App <br>Ok fatto!! 
+13-06-2014 16:28:09 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:28:09 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:28:24 [Logger][START][App\App::doSomething]  
+13-06-2014 16:28:24 [Logger][END][App\App::doSomething]  ::: eccezzione lanciata da doDomething <br> 
+13-06-2014 16:28:24 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:28:24 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:32:52 [Logger][START][App\App::doSomething]  
+13-06-2014 16:32:52 [Logger][END][App\App::doSomething]  ::: Doing something from App <br>Ok fatto!! 
+13-06-2014 16:32:52 [Logger][START][App\App::doSomethingThrowsException]  
+13-06-2014 16:32:52 [Logger][END][App\App::doSomethingThrowsException]  ::: doDomething is throwing an exception <br> 
+13-06-2014 16:32:52 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:32:52 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:33:01 [Logger][START][App\App::doSomething]  
+13-06-2014 16:33:01 [Logger][END][App\App::doSomething]  ::: Doing something from App <br>Ok fatto!! 
+13-06-2014 16:33:01 [Logger][START][App\App::doSomethingThrowsException]  
+13-06-2014 16:33:01 [Logger][END][App\App::doSomethingThrowsException]  ::: doDomething is throwing an exception <br> 
+13-06-2014 16:33:01 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:33:01 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:33:05 [Logger][START][App\App::doSomething]  
+13-06-2014 16:33:05 [Logger][END][App\App::doSomething]  ::: Doing something from App <br>Ok fatto!! 
+13-06-2014 16:33:05 [Logger][START][App\App::doSomethingThrowsException]  
+13-06-2014 16:33:05 [Logger][END][App\App::doSomethingThrowsException]  ::: doDomething is throwing an exception <br> 
+13-06-2014 16:33:05 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:33:05 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Ciao sono il val1, Ah ciao! Io sono il val2 invece. 
+13-06-2014 16:36:35 [Logger][START][App\App::doSomething]  
+13-06-2014 16:36:35 [Logger][END][App\App::doSomething]  ::: Doing something from App 
+13-06-2014 16:36:35 [Logger][START][App\App::doSomethingThrowsException]  
+13-06-2014 16:36:35 [Logger][END][App\App::doSomethingThrowsException]  ::: doDomething is throwing an exception <br> 
+13-06-2014 16:36:35 [Logger][START][App\App::doSomethingElseWithArgs]  
+13-06-2014 16:36:35 [Logger][END][App\App::doSomethingElseWithArgs]  ::: Hi I'm val1, Oh ciao! I'm val2. 
